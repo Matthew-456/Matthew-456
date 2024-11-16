@@ -42,8 +42,8 @@
 
 
 ## Habilidades Linguísticas  
-- 🌍 **Inglês intermediário**: Habilidade em conversação e compreensão de textos técnicos na área de tecnologia.  
-- 🌎 **Espanhol básico**: Conhecimento fundamental para interações simples e compreensão inicial.
+- 🌍 **Inglês intermediário**: Sou Parsialmente capaz de conversar e comprender de textos e dialogos técnicos na área de tecnologia, mas sempre estou buscando em me aperfeiçoar.  
+- 🌎 **Espanhol básico**: Capaz de comprender muitos textos, dialogos e informações, contudo, apresento um déficit em conversação oral.
 - 🌎 **Português fluente**: Minha Lingua Nativa ;)
 - 🌍 **Alemão Iniciante**: Planejo aprender a língua para expandir minhas habilidades em um ambiente global.  
 - 🌍 **Italiano Iniciante**: Planejo aprender o idioma como parte do meu desenvolvimento cultural e profissional.  
