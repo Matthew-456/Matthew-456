@@ -78,7 +78,7 @@
 - **🎮Desenvolvimento de Jogos**  
   Trabalhei em **jogos autorais** como parte do **Curso de Desenvolvimento e Game Design de Jogos Digitais 2D do SECTI**, com dois jogos como Trabalho de Conclusão de Curso. 🖥️🎮
 - **🎬Freelancer em Edição de Vídeo**  
-  Editei vídeos para **canais de YouTubers famosos**, fortalecendo meu **networking** e aprendendo sobre as demandas do mercado digital. 📱💻
+  Editei vídeos para **canais do YouTubers**, fortalecendo meu **networking** e aprendendo sobre as demandas do mercado digital. 📱💻
 - **🎨Freelancer em Ilustração Digital**  
   Criei **arte 2D** e **pixel art** para projetos pessoais e clientes, explorando a criação de personagens e cenários. 🖌️👾
 - **🧪QA Tester**  
