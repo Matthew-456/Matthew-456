@@ -62,6 +62,9 @@
 - 🗣️ **Comunicação em Grupo**: Facilidade em trabalhar em equipe, com boa comunicação e colaboração para resolver problemas e atingir objetivos comuns.  
 - 🕹️ **Game Design**: Conhecimento prático em design de jogos, incluindo mecânicas, balanceamento, criação de personagens e histórias.  
 - 🧪 **QA Tester**: Experiência na realização de testes de qualidade em jogos e software, garantindo que o produto final seja funcional e sem erros.
+- 📄 **Microsoft Office** (Word, Excel, PowerPoint)
+- 📝**Canva**, criando apresentações e materiais visuais de maneira eficiente. 📝🎨
+
 
 ---
 
