@@ -12,9 +12,7 @@
 <img src="https://i.pinimg.com/736x/64/51/21/6451218b8b48c0dbe5c58d327f11a0a7.jpg" width="200">
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Jedi_Code)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_fvda/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jedi-code-matheus-fernandes-22b936338/)
 [![Whatzap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](Https://wa.me/558393884994)
 
 ---
@@ -74,19 +72,14 @@
 
 - **🎥Início no Mundo dos Vídeos**  
   Quando mais jovem, criei e gravei meus próprios vídeos, mas decidi me focar em outras áreas como **desenvolvimento de jogos**, **edição de vídeo** e **ilustração digital** para me profissionalizar. 🌟
-
 - **🎮Desenvolvimento de Jogos**  
   Trabalhei em **jogos autorais** como parte do **Curso de Desenvolvimento e Game Design de Jogos Digitais 2D do SECTI**, com dois jogos como Trabalho de Conclusão de Curso. 🖥️🎮
-
 - **🎬Freelancer em Edição de Vídeo**  
   Editei vídeos para **canais de YouTubers famosos**, fortalecendo meu **networking** e aprendendo sobre as demandas do mercado digital. 📱💻
-
 - **🎨Freelancer em Ilustração Digital**  
   Criei **arte 2D** e **pixel art** para projetos pessoais e clientes, explorando a criação de personagens e cenários. 🖌️👾
-
 - **🕹️QA Tester**  
   Testei **jogos indie**, identificando bugs e garantindo qualidade, o que aprimorou minha atenção aos detalhes. 🔧🕹️
-
 - **📚Projetos Acadêmicos (UFCG e CS50)**  
   Atuo em projetos acadêmicos de **Ciência da Computação** na **UFCG** e continuo meu aprendizado com o curso **CS50** de Harvard, aprofundando meus conhecimentos em **programação** e **algoritmos**. 💻📘🎓
 
