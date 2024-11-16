@@ -46,8 +46,53 @@
 ## Habilidades Linguísticas  
 - 🌍 **Inglês intermediário**: Habilidade em conversação e compreensão de textos técnicos na área de tecnologia.  
 - 🌎 **Espanhol básico**: Conhecimento fundamental para interações simples e compreensão inicial.
-- 🌍 **Alemão**: Planejo aprender a língua para expandir minhas habilidades em um ambiente global.  
-- 🌍 **Italiano**: Planejo aprender o idioma como parte do meu desenvolvimento cultural e profissional.  
+- 🌎 **Português fluente**: Minha Lingua Nativa ;)
+- 🌍 **Alemão Iniciante**: Planejo aprender a língua para expandir minhas habilidades em um ambiente global.  
+- 🌍 **Italiano Iniciante**: Planejo aprender o idioma como parte do meu desenvolvimento cultural e profissional.  
+---
+
+<!-- GIF -->
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="500">
+
+## Habilidades Técnicas e Criativas  
+- 🎨 **Ilustração Digital 2D**: Capacidade de criar arte digital, desde personagens até ambientes, usando softwares de design.  
+- 🟩 **Pixel Art**: Habilidade na criação de arte pixelizada para jogos, com foco em elementos 2D e animações simples.  
+- 🖥️ **Blender**: Experiência com o software para modelagem 3D, animações e outras funcionalidades relacionadas à criação de jogos e design visual.  
+- 🎬 **Edição de Vídeo**: Capacidade de editar vídeos, incluindo cortes, adição de efeitos, áudio e transições e Edição dinamica utilizando softwares de edição.  
+- 💻 **Programação**: Estou estudando algumas linguagens no momento, mas ja tenho noção de Python e estou desenvolvendo habilidades com GDscript  em projetos de jogos.  
+- 📋 **Gerenciamento de Projetos**: Habilidade para organizar, planejar e coordenar projetos em equipe, garantindo que as tarefas sejam cumpridas dentro do prazo.  
+- 🗣️ **Comunicação em Grupo**: Facilidade em trabalhar em equipe, com boa comunicação e colaboração para resolver problemas e atingir objetivos comuns.  
+- 🕹️ **Game Design**: Conhecimento prático em design de jogos, incluindo mecânicas, balanceamento, criação de personagens e histórias.  
+- 🧪 **QA Tester**: Experiência na realização de testes de qualidade em jogos e software, garantindo que o produto final seja funcional e sem erros.
+
+---
+
+<!-- GIF -->
+<img src="https://i.pinimg.com/originals/41/60/61/416061b9d95e206d7bbeb51e644cca6e.gif" width="500">
+
+## Experiência Profissional e Projetos Pessoais  
+
+- **🎥Início no Mundo dos Vídeos**  
+  Quando mais jovem, criei e gravei meus próprios vídeos, mas decidi me focar em outras áreas como **desenvolvimento de jogos**, **edição de vídeo** e **ilustração digital** para me profissionalizar. 🌟
+
+- **🎮Desenvolvimento de Jogos**  
+  Trabalhei em **jogos autorais** como parte do **Curso de Desenvolvimento e Game Design de Jogos Digitais 2D do SECTI**, com dois jogos como Trabalho de Conclusão de Curso. 🖥️🎮
+
+- **🎬Freelancer em Edição de Vídeo**  
+  Editei vídeos para **canais de YouTubers famosos**, fortalecendo meu **networking** e aprendendo sobre as demandas do mercado digital. 📱💻
+
+- **🎨Freelancer em Ilustração Digital**  
+  Criei **arte 2D** e **pixel art** para projetos pessoais e clientes, explorando a criação de personagens e cenários. 🖌️👾
+
+- **🕹️QA Tester**  
+  Testei **jogos indie**, identificando bugs e garantindo qualidade, o que aprimorou minha atenção aos detalhes. 🔧🕹️
+
+- **📚Projetos Acadêmicos (UFCG e CS50)**  
+  Atuo em projetos acadêmicos de **Ciência da Computação** na **UFCG** e continuo meu aprendizado com o curso **CS50** de Harvard, aprofundando meus conhecimentos em **programação** e **algoritmos**. 💻📘🎓
+
+Essas experiências me permitiram aprimorar minhas habilidades em **desenvolvimento de jogos**, **edição de vídeos**, **ilustração digital** e **testes de qualidade**, combinando teoria e prática. 🚀🌟
+
+
 ---
 
 <!-- GIF -->
