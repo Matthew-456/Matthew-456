@@ -27,7 +27,7 @@
   - ✅ **Curso concluído em Desenvolvimento e Game Design de Jogos Digitais 2D**.  
   - 🎮 Aprendizado prático em criação de jogos bidimensionais, design, narrativa e lógica de programação.  
 
-- **[UFCG (Universidade Federal de Campina Grande)](https://portal.ufcg.edu.br/graduacao/cursos-graduacao/145-ciencia-da-computacao-ceei-d.html)**  
+- **[UFCG (Universidade Federal de Campina Grande)](https://www.computacao.ufcg.edu.br/?page_id=572)**  
   - 🎓 **Bacharelado em Ciência da Computação** (cursando).  
   - 💻 Foco em fundamentos teóricos e práticos de computação, como algoritmos, estrutura de dados e programação.  
 
