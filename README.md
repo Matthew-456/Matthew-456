@@ -83,8 +83,6 @@
   Criei **arte 2D** e **pixel art** para projetos pessoais e clientes, explorando a criação de personagens e cenários. 🖌️👾
 - **🧪QA Tester**  
   Testei **jogos indie**, identificando bugs e garantindo qualidade, o que aprimorou minha atenção aos detalhes. 🔧🕹️
-- **📚Projetos Acadêmicos (UFCG e CS50)**  
-  Atuo em projetos acadêmicos de **Ciência da Computação** na **UFCG** e continuo meu aprendizado com o curso **CS50** de Harvard, aprofundando meus conhecimentos em **programação** e **algoritmos**. 💻📘🎓
 
 Essas experiências me permitiram aprimorar minhas habilidades em **desenvolvimento de jogos**, **edição de vídeos**, **ilustração digital** e **testes de qualidade**, combinando teoria e prática. 🚀🌟
 
