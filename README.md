@@ -81,7 +81,7 @@
   Editei vídeos para **canais de YouTubers famosos**, fortalecendo meu **networking** e aprendendo sobre as demandas do mercado digital. 📱💻
 - **🎨Freelancer em Ilustração Digital**  
   Criei **arte 2D** e **pixel art** para projetos pessoais e clientes, explorando a criação de personagens e cenários. 🖌️👾
-- **🕹️QA Tester**  
+- **🧪QA Tester**  
   Testei **jogos indie**, identificando bugs e garantindo qualidade, o que aprimorou minha atenção aos detalhes. 🔧🕹️
 - **📚Projetos Acadêmicos (UFCG e CS50)**  
   Atuo em projetos acadêmicos de **Ciência da Computação** na **UFCG** e continuo meu aprendizado com o curso **CS50** de Harvard, aprofundando meus conhecimentos em **programação** e **algoritmos**. 💻📘🎓
