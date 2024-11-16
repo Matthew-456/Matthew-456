@@ -53,9 +53,9 @@
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="500">
 
 ## Habilidades Técnicas e Criativas  
-- 🎨 **Ilustração Digital 2D**: Capacidade de criar arte digital, desde personagens até ambientes, usando softwares de design.  
+- 🎨 **Ilustração Digital 2D**: Capacidade de criar arte digital, desde personagens até ambientes, usando softwares de desenho.  
 - 🟩 **Pixel Art**: Habilidade na criação de arte pixelizada para jogos, com foco em elementos 2D e animações simples.  
-- 🖥️ **Blender**: Experiência com o software para modelagem 3D, animações e outras funcionalidades relacionadas à criação de jogos e design visual.  
+- 🖥️ **Blender**:  Estou aprendendo com a experiência, tentando replicar animações e outras funcionalidades relacionadas à criação de modelagem, aplicando futuramente em jogos ou em animações para studios. 
 - 🎬 **Edição de Vídeo**: Capacidade de editar vídeos, incluindo cortes, adição de efeitos, áudio e transições e Edição dinamica utilizando softwares de edição.  
 - 💻 **Programação**: Estou estudando algumas linguagens no momento, mas ja tenho noção de Python e estou desenvolvendo habilidades com GDscript  em projetos de jogos.  
 - 📋 **Gerenciamento de Projetos**: Habilidade para organizar, planejar e coordenar projetos em equipe, garantindo que as tarefas sejam cumpridas dentro do prazo.  
