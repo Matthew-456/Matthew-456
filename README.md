@@ -108,4 +108,4 @@ Essas experiências me permitiram aprimorar minhas habilidades em **desenvolvime
     <summary><h1 style="display: inline-block">Obrigado por ler :3 </h1></summary>
 </div>
     
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=spoppb8pnzru2k3lieaje46yd&cover_image=true&Novatoremtheme&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
