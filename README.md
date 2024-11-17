@@ -1,8 +1,10 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Olá Mundo !</h1></summary>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+me+chamo+Matheus+;Mas+pode+me+chamar+de+Matthew)](https://git.io/typing-svg)
     
 ---
     
@@ -103,6 +105,6 @@ Essas experiências me permitiram aprimorar minhas habilidades em **desenvolvime
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Thanks for reading :3 </h1></summary>
+    <summary><h1 style="display: inline-block">Obrigado por ler :3 </h1></summary>
 </div>
     
