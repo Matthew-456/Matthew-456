@@ -46,11 +46,11 @@
 
 
 ## Habilidades Linguísticas  
-- 🌍 **Inglês intermediário**: Sou Parsialmente capaz de conversar e comprender textos e dialogos na área de tecnologia e outros temas,e ainda estou buscando em me aperfeiçoar.  
-- 🌎 **Espanhol básico**: Capaz de comprender muitos textos, dialogos e informações, contudo, apresento um déficit em conversação oral.
-- 🌎 **Português fluente**: Minha Lingua Nativa ;)
-- 🌍 **Alemão Iniciante**: Planejo aprender a língua para expandir minhas habilidades em um ambiente global.  
-- 🌍 **Italiano Iniciante**: Planejo aprender o idioma como parte do meu desenvolvimento cultural e profissional.  
+- 🌍 [**Inglês intermediário**](https://docs.google.com/document/d/1YuNo31886h47fBqj6_RRDLJnNlBQ9wsQXhzDTKQInTM/edit?tab=t.0): Sou Parsialmente capaz de conversar e comprender textos e dialogos na área de tecnologia e outros temas,e ainda estou buscando em me aperfeiçoar.  
+- 🌎 [**Espanhol básico**](https://docs.google.com/document/d/1zIlLxrub22yqQQhoU-vVynX63gV1MWliPQIYX7PECl8/edit?tab=t.0): Capaz de comprender muitos textos, dialogos e informações, contudo, apresento um déficit em conversação oral.
+- 🌎 [**Português fluente**]: Minha Lingua Nativa ;)
+- 🌍 [**Alemão Iniciante**](https://docs.google.com/document/d/1YUmCSOgRB6ifH5evmJiHEz-Npf7ChMQOTCITaek_OS8/edit?tab=t.0): Planejo aprender a língua para expandir minhas habilidades em um ambiente global.  
+- 🌍 [**Italiano Iniciante**](https://docs.google.com/document/d/1QZZQqQRTbAXFAmbtzFVBC2_zjL5qjrgbhX8GYvTGcbI/edit?tab=t.0): Planejo aprender o idioma como parte do meu desenvolvimento cultural e profissional.  
 ---
 
 <!-- GIF -->
