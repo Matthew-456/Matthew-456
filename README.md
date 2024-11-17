@@ -35,6 +35,10 @@
   - 📘 **Cursando** o renomado curso introdutório de Ciência da Computação.  
   - 🔢 Desenvolvimento de habilidades em linguagens como C e Python, além de resolução de problemas computacionais.  
 
+- **[IFPB (Instituto Federal da Paraíba)](https://www.ifpb.edu.br/campinagrande)**  
+  - 📜 **Técnico em Química** (concluído).  
+  - 🧪 Realizei um [TCC](https://docs.google.com/document/d/1ydLQ6l5_QJ4vN-C12bG4KmT2RPqyK9hwCrLVrwGlP4A/edit?tab=t.0), em que desenvolvi projetos de pesquisa, fortalecendo habilidades acadêmicas e contribuindo para a comunidade científica.
+  
 ---
 
 <!-- GIF -->
