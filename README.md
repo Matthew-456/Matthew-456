@@ -4,7 +4,7 @@
     <summary><h1 style="display: inline-block">Olá Mundo !</h1></summary>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=oiiii,+me+chamo+Matheus+Fernandes;Mas+pode+me+chamar+de+Matthew+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=oiiii,+meu+nome+é+Matheus+Fernandes;Mas+pode+me+chamar+de+Matthew+)](https://git.io/typing-svg)
     
 ---
     
