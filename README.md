@@ -44,9 +44,9 @@
 
 
 ## Language Skills  
-- 🌍 [**Intermediate English**](https://docs.google.com/document/d/1YuNo31886h47fBqj6_RRDLJnNlBQ9wsQXhzDTKQInTM/edit?tab=t.0): Partially capable of holding conversations and understanding texts and dialogues in technology and other areas, continuously seeking improvement.  
+- 🌍 [**Intermediate English**] Partially capable of holding conversations and understanding texts and dialogues in technology and other areas, continuously seeking improvement.  
 - 🌎 [**Basic Spanish**](https://docs.google.com/document/d/1zIlLxrub22yqQQhoU-vVynX63gV1MWliPQIYX7PECl8/edit?tab=t.0): Able to comprehend many texts, dialogues, and information, though oral conversation remains challenging.  
-- 🌎 [**Fluent Portuguese**]: My native language.  
+- 🌎 [**Fluent Portuguese**](https://docs.google.com/document/d/1YuNo31886h47fBqj6_RRDLJnNlBQ9wsQXhzDTKQInTM/edit?tab=t.0): My native language.  
 - 🌍 [**Beginner German**](https://docs.google.com/document/d/1YUmCSOgRB6ifH5evmJiHEz-Npf7ChMQOTCITaek_OS8/edit?tab=t.0): Planning to learn this language to expand my global skill set.  
 - 🌍 [**Beginner Italian**](https://docs.google.com/document/d/1QZZQqQRTbAXFAmbtzFVBC2_zjL5qjrgbhX8GYvTGcbI/edit?tab=t.0): Intending to learn the language as part of my cultural and professional development.  
 ---
