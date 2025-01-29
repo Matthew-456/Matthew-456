@@ -33,10 +33,6 @@
   - 🎓 **Bachelor's Degree in Computer Science** (ongoing).  
   - 💻 Focus on theoretical and practical fundamentals, such as algorithms, data structures, and programming.  
 
-- **[Harvard CS50](https://ead.estudar.org.br/c/cc50-o-curso-de-ciencia-da-computacao-de-harvard-no-brasil)** ( Fundação Estudar sponsored by harvard )  
-  - 📘 **Currently enrolled** in the renowned introductory Computer Science course.  
-  - 🔢 Developing skills in languages like C and Python and solving computational problems.  
-
 - **[IFPB (Federal Institute of Paraíba)](https://www.ifpb.edu.br/campinagrande)**  
   - 📜 **Technical Degree in Chemistry** (completed).  
   - 🧪 Conducted a [research project](https://docs.google.com/document/d/1ydLQ6l5_QJ4vN-C12bG4KmT2RPqyK9hwCrLVrwGlP4A/edit?tab=t.0), enhancing academic skills and contributing to the scientific community.
