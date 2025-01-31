@@ -4,7 +4,7 @@
     <summary><h1 style="display: inline-block">Hello World!</h1></summary>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+my+name+is+Matheus;But+you+can+call+me+Matthew)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+my+name+is+Matheus;But+you+may+call+me+Matthew)](https://git.io/typing-svg)
     
 ---
     
@@ -103,11 +103,3 @@ These experiences allowed me to improve my skills in **game development**, **vid
 </div>
     
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=spoppb8pnzru2k3lieaje46yd&cover_image=true&Novatoremtheme&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-<!--COBRINHA-->
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matthew-456/Matthew-456/snake/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matthew-456/Matthew-456/snake/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Matthew-456/Matthew-456/snake/github-contribution-grid-snake.svg">
-</picture>
