@@ -26,13 +26,6 @@
     alt="GitHub Stats" 
   />
   
-  <!-- Top programming languages card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=SnowDev01&layout=compact&langs_count=6&theme=nord" 
-    height="150" 
-    alt="Top Languages" 
-  />
-</div>
 
 <!-- ============================= -->
 <!-- Tools / Technologies and Personal Image -->
