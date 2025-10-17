@@ -1,7 +1,3 @@
-<!-- ============================= -->
-<!-- COMPACT LEFT-ALIGNED README -->
-<!-- ============================= -->
-
 <h3 align="left">Hello World 👋</h3>
 
 <p align="left">
