@@ -36,7 +36,7 @@
   <h4>🧠 Programming Languages</h4>
   <img 
     src="https://skillicons.dev/icons?i=python,java,cs,cpp" 
-    height="38" 
+    height="40" 
     alt="Programming Languages" 
   />
 
@@ -46,7 +46,7 @@
   <h4>🛠️ Tools & Technologies</h4>
   <img 
     src="https://skillicons.dev/icons?i=godot,bash,neovim,vscode,linux,git,github" 
-    height="38" 
+    height="40" 
     alt="Tools and Technologies" 
   />
 
