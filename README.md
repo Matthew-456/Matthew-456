@@ -1,5 +1,5 @@
 <!-- Título -->
-<h1 align="center">Olá Mundo! 👋 Eu sou Matheus DH</h1>
+<h1 align="center">Olá Mundo!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Python+%26+Java;Programador+Ren'Py+%26+Godot;Aprendendo+C%23+e+C%2B%2B;Sempre+aprendendo+coisas+novas!" alt="Animação de Digitação" />
