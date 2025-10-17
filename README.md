@@ -73,14 +73,7 @@
       alt="Instagram" 
     />
   </a>
-  
-  <!-- WhatsApp link -->
-  <a href="https://wa.me/5583993884994" target="_blank">
-    <img 
-      src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=1E90FF&style=for-the-badge&logoColor=white" 
-      alt="WhatsApp" 
-    />
-  </a>
+
   
   <!-- Gmail link -->
   <a href="mailto:eusoumatheusfernandes@gmail.com" target="_blank">
