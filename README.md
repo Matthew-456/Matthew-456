@@ -19,14 +19,14 @@
 <div align="left" style="margin:0;padding:0;line-height:1;">
   <h4 style="margin:4px 0;">🧠 Programming Languages</h4>
   <img 
-    src="https://skillicons.dev/icons?i=python,java,cs,cpp" 
+    src="https://skillicons.dev/icons?i=python,java,cs,cpp,godot" 
     height="40" 
     alt="Programming Languages"
   />
 
   <h4 style="margin:6px 0;">🛠️ Tools & Technologies</h4>
   <img 
-    src="https://skillicons.dev/icons?i=godot,bash,neovim,vscode,linux,git,github" 
+    src="https://skillicons.dev/icons?i=bash,neovim,vscode,linux,git,github" 
     height="40" 
     alt="Tools and Technologies"
   />
