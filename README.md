@@ -1,8 +1,53 @@
-<!--Title-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
+<!-- Título -->
+<h1 align="center">Olá Mundo! 👋 Eu sou Matheus DH</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Python+%26+Java;Programador+Ren'Py+%26+Godot;Aprendendo+C%23+e+C%2B%2B;Sempre+aprendendo+coisas+novas!" alt="Animação de Digitação" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matthew-456&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="160" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matthew-456&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" alt="Linguagens mais usadas" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+my+name+is+Matheus;But+you+may+call+me+Matthew)](https://git.io/typing-svg)
-    
+---
+
+<img align="right" height="160" src="https://i.pinimg.com/originals/37/8c/6e/378c6ed8c2791b1e9cf0b690e6f3a0cf.gif" alt="Gif de programação"/>
+
+### 👨‍💻 Sobre Mim
+- 🧑🏽‍💻 Programo em **Python** e **Java**
+- 🎮 Desenvolvedor de jogos **Ren’Py** e **Godot**
+- 🚀 Atualmente aprendendo **C#** e **C++** (**Java também**)
+- ☕ Movido a café e energético
+- 💬 Gosto de conectar **psicologia** e **computação**
+
+---
+
+### ⚙️ Tecnologias
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,godot,bash,neovim,vscode,linux,git,github" />
+</div>
+
+---
+
+### 🌐 Contato
+<p align="center">
+  <a href="mailto:eusoumatheusfernandes@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.com/users/matheus.fernandes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.youtube.com/@snow_dev-01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+---
+
+### 🐍 Cobra de Contribuição do GitHub
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Matthew-456/Matthew-456/output/snake.svg" alt="Animação da cobra"/>
+</p>
