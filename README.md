@@ -37,6 +37,15 @@
     height="38" 
     alt="Tech Icons" 
   />
+
+ <img 
+    src="https://cdn.discordapp.com/attachments/1356953921406500936/1428821716687392908/image.png?ex=68f3e56b&is=68f293eb&hm=b9bbfb378fd795a4dcdc5bfe41c451681d2a71ce1ca6b08133244f52b88488f7&" 
+    height="80" 
+    alt="My Image" 
+    style="margin-left:30px;"
+  />
+</div>
+
   
   <!-- Personal image -->
   <img 
