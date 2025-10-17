@@ -37,19 +37,19 @@
     alt="My Image"
     style="border-radius:10px;margin-top:8px;"
   />
-</div>
+
 
 <div align="left" style="margin-top:6px;line-height:1;">
   <a href="https://www.youtube.com/@snow_dev-01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=1E90FF&style=flat&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-1E90FF?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.instagram.com/snow_dev01?igsh=azVmbDR0MWM4bWFs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=1E90FF&style=flat&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://discordapp.com/users/snow_dev001" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=1E90FF&style=flat&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-1E90FF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:eusoumatheusfernandes@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=1E90FF&style=flat&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
