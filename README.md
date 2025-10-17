@@ -43,5 +43,10 @@
   <a href="https://www.youtube.com/@snow_dev-01" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge&logoColor=white" alt="YouTube"/>
   </a>
+  <a href="https://www.instagram.com/matheus_fvda/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/5583993884994" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=25D366&style=for-the-badge&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
-
