@@ -7,7 +7,7 @@
 <!-- ============================= -->
 <!-- Typing Animation Section -->
 <!-- ============================= -->
-<!-- Animated text to introduce yourself -->
+<!-- Animated text introducing yourself -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Hi+I%27m+Snow_Dev...;Shall+we+build+something+together?" 
@@ -25,34 +25,39 @@
     height="150" 
     alt="GitHub Stats" 
   />
-  
-
-<!-- ============================= -->
-<!-- Tools / Technologies and Personal Image -->
-<!-- ============================= -->
-<div align="center">
-  <!-- Icons representing programming languages and tools -->
-  <img 
-    src="https://skillicons.dev/icons?i=python,java,cs,cpp,godot,bash,neovim,vscode,linux,git,github" 
-    height="38" 
-    alt="Tech Icons" 
-  />
-
- <img 
-    src="https://cdn.discordapp.com/attachments/1356953921406500936/1428821716687392908/image.png?ex=68f3e56b&is=68f293eb&hm=b9bbfb378fd795a4dcdc5bfe41c451681d2a71ce1ca6b08133244f52b88488f7&" 
-    height="80" 
-    alt="My Image" 
-    style="margin-left:30px;"
-  />
 </div>
 
-  
-  <!-- Personal image -->
+<!-- ============================= -->
+<!-- Tech Stack Section -->
+<!-- ============================= -->
+<div align="center">
+
+  <!-- Programming Languages -->
+  <h4>🧠 Programming Languages</h4>
+  <img 
+    src="https://skillicons.dev/icons?i=python,java,cs,cpp" 
+    height="38" 
+    alt="Programming Languages" 
+  />
+
+  <br/><br/>
+
+  <!-- Tools & Technologies -->
+  <h4>🛠️ Tools & Technologies</h4>
+  <img 
+    src="https://skillicons.dev/icons?i=godot,bash,neovim,vscode,linux,git,github" 
+    height="38" 
+    alt="Tools and Technologies" 
+  />
+
+  <br/><br/>
+
+  <!-- Personal Image -->
   <img 
     src="https://i.pinimg.com/1200x/ef/84/df/ef84df73c2ebf4068618a401ae3f0f1e.jpg" 
     height="150" 
     alt="My Image" 
-    style="margin-left:30px;"
+    style="margin-top:20px;"
   />
 </div>
 
@@ -60,6 +65,7 @@
 <!-- Contact Badges Section -->
 <!-- ============================= -->
 <div align="center">
+
   <!-- YouTube link -->
   <a href="https://www.youtube.com/@snow_dev-01" target="_blank">
     <img 
@@ -76,7 +82,14 @@
     />
   </a>
 
-  
+  <!-- Discord link -->
+  <a href="https://discordapp.com/users/snow_dev001" target="_blank">
+    <img 
+      src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=1E90FF&style=for-the-badge&logoColor=white" 
+      alt="Discord" 
+    />
+  </a>
+
   <!-- Gmail link -->
   <a href="mailto:eusoumatheusfernandes@gmail.com" target="_blank">
     <img 
