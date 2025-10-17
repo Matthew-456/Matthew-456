@@ -1,8 +1,9 @@
 <h3 align="center">Hello World 👋</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=My+name+is+Matheus+Fernandes...;You+can+call+me+Matthew+or+Snow_Dev&delay=5000" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Hi+I%27m+Snow_Dev...;Shall+we+build+something+together?" alt="Typing Animation" />
 </p>
+
 
 ###
 
