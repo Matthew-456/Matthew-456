@@ -7,15 +7,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matthew-456&show_icons=true&theme=nord&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matthew-456&layout=compact&langs_count=6&theme=nord" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SnowDev01&show_icons=true&theme=nord&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SnowDev01&layout=compact&langs_count=6&theme=nord" height="150" alt="Top Languages" />
 </div>
-
 
 ###
 
 <div align="center">
-
   <!-- Tools / Technologies -->
   <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,godot,bash,neovim,vscode,linux,git,github" height="38" alt="Tech Icons" />
   
@@ -40,5 +38,3 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=1E90FF&style=for-the-badge&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
-###
