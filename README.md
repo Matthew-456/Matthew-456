@@ -4,7 +4,7 @@
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&width=380&lines=Hi+I'm+Snow_Dev...;Shall+we+build+something+together?" 
     alt="Typing Animation"
-    height="25"
+    height="40"
   />
 </p>
 
