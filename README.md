@@ -1,7 +1,7 @@
-<h3 align="center">Olá Mundo 👋</h3>
+<h3 align="center">Hello World 👋</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Me+chamo+Matheus+Fernandes...;Pode+me+chamar+de+Matthew+ou+Snow_Dev&delay=5000" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=My+name+is+Matheus+Fernandes...;You+can+call+me+Matthew+or+Snow_Dev&delay=5000" alt="Typing Animation" />
 </p>
 
 ###
@@ -15,18 +15,17 @@
 
 <div align="center">
 
-  <!-- Ferramentas / Tecnologias -->
+  <!-- Tools / Technologies -->
   <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,godot,bash,neovim,vscode,linux,git,github" height="38" alt="Tech Icons" />
   
-
-  <!-- Imagem pessoal -->
-  <img src="https://i.pinimg.com/1200x/ef/84/df/ef84df73c2ebf4068618a401ae3f0f1e.jpg" height="150" alt="Minha Imagem" style="margin-left:30px;"/>
+  <!-- Personal Image -->
+  <img src="https://i.pinimg.com/1200x/ef/84/df/ef84df73c2ebf4068618a401ae3f0f1e.jpg" height="150" alt="My Image" style="margin-left:30px;"/>
 </div>
 
 ###
 
 <div align="center">
-  <!-- Contatos -->
+  <!-- Contacts -->
   <a href="https://www.youtube.com/@snow_dev-01" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge&logoColor=white" alt="YouTube" />
   </a>
@@ -42,7 +41,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
