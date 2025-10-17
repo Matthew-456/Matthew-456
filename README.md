@@ -2,7 +2,7 @@
 <h1 align="center">Olá Mundo!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Python+%26+Java;Programador+Ren'Py+%26+Godot;Aprendendo+C%23+e+C%2B%2B;Sempre+aprendendo+coisas+novas!" alt="Animação de Digitação" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=00C4FF&center=true&vCenter=true&width=500&lines=Me+chamo+Matheus+Fernandes;Mas+pode+me+chamar+de+Matthew;Bem-vindo+ao+meu+GitHub!" alt="Animação de Digitação" />
 </p>
 
 ---
@@ -42,11 +42,5 @@
   </a>
   <a href="https://www.youtube.com/@snow_dev-01" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.instagram.com/matheus_fvda/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://wa.me/5583993884994" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=25D366&style=for-the-badge&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
