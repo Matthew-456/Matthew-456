@@ -24,14 +24,14 @@
   <h4 style="margin:4px 0;">🧠 Programming Languages</h4>
   <img 
     src="https://skillicons.dev/icons?i=python,java,cs,cpp" 
-    height="27" 
+    height="40" 
     alt="Programming Languages"
   />
 
   <h4 style="margin:6px 0;">🛠️ Tools & Technologies</h4>
   <img 
     src="https://skillicons.dev/icons?i=godot,bash,neovim,vscode,linux,git,github" 
-    height="27" 
+    height="40" 
     alt="Tools and Technologies"
   />
 
