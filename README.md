@@ -45,4 +45,7 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Matthew-456/Matthew-456/output/snake.svg" alt="Animação da cobra"/>
+</p>
 
