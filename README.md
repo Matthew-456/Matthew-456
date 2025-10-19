@@ -19,7 +19,7 @@
 <div align="left" style="margin:0;padding:0;line-height:1;">
   <h4 style="margin:4px 0;">🧠 Programming Languages</h4>
   <img 
-    src="https://skillicons.dev/icons?i=python,java,cs,cpp,godot" 
+    src="https://skillicons.dev/icons?i=python,java,cs,cpp,godot,lua" 
     height="40" 
     alt="Programming Languages"
   />
